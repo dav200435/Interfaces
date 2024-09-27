@@ -27,6 +27,12 @@
 
 Aqui lo que cambia es el widget que se pone al frente
 
-![cambiar el set current a 1](./img/image5Current1.png)
+![Cambiar el set current a 1](./img/image5Current1.png)
 
 ![Se muestra un grid con un layout stacked abajo](./img/image5GridStacked.png)
+
+
+### Ejercicio 6
+![Dialogo](./img/image6.png)
+
+![dialogo editado](./img/image6Custom.png)

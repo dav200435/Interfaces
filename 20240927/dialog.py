@@ -43,6 +43,6 @@ class CustomDialog(QDialog):
 
 
 app = QApplication(sys.argv)
-window = MainWindow()
+window = CustomDialog()
 window.show()
 app.exec()

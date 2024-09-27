@@ -18,7 +18,7 @@
 ![Se añaden widgets 2](./img/image4Estructure.png)
 
 ### Ejercicio 5
-![Stacked](./img/imge5.png)
+![Stacked](./img/image5.png)
 
 Aqui lo que cambia es el widget que se pone al frente
 

@@ -36,3 +36,7 @@ Aqui lo que cambia es el widget que se pone al frente
 ![Dialogo](./img/image6.png)
 
 ![dialogo editado](./img/image6Custom.png)
+
+Dialogo simple
+
+![Simple dialog](./img/image6SimpleDialog.png)

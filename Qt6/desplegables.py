@@ -47,7 +47,6 @@ class MyWindow(QMainWindow):
             self.widget1.hide()
             self.widget2.hide()
 
-        # Limpiar el contenido dinámico antes de agregar nuevo contenido
         for i in reversed(range(self.content_layout.count())):
             widget_to_remove = self.content_layout.itemAt(i).widget()
             if widget_to_remove is not None:

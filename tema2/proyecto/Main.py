@@ -69,7 +69,7 @@ while True:
             confianza = detecciones[0, 0, i, 2]
             if confianza > 0.4:  # Umbral de confianza
                 idx = int(detecciones[0, 0, i, 1])
-                etiqueta = clases_interes.get(clases[idx], None)
+                etiqueta = clases_interes.get(clases_interes[idx], None)
                 if etiqueta:
                     objetos_detectados.append((etiqueta, int(confianza * 100)))
 
@@ -78,9 +78,9 @@ while True:
             for objeto, probabilidad in objetos_detectados:
                 hablar(f"Veo un {objeto} con una probabilidad del {probabilidad} por ciento.")
         else:
-            hablar("No detecté objetos relevantes en la imagen.")
+            hablar("No detecto objetos relevantes en la imagen.")
     elif "salir" in comando:
-        hablar("Saliendo del programa. Adiós.")
+        hablar("Saliendo del programa. Adios.")
         break
     else:
         hablar("No te entiendo.")

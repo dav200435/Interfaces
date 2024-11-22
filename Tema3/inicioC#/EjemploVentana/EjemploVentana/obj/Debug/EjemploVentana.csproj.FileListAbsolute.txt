@@ -1,0 +1,10 @@
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\bin\Debug\EjemploVentana.exe.config
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\bin\Debug\EjemploVentana.exe
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\bin\Debug\EjemploVentana.pdb
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.csproj.AssemblyReference.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.Form1.resources
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.Properties.Resources.resources
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.csproj.GenerateResource.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.csproj.CoreCompileInputs.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.exe
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\EjemploVentana\EjemploVentana\obj\Debug\EjemploVentana.pdb

@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|c:\\users\\dav_2004_35\\repositorios\\interfaces\\tema3\\inicioc#\\ejemploventana\\ejemploventana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|solutionrelative:ejemploventana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\ejemploventana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|solutionrelative:ejemploventana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\ejemploventana\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5284AAC3-20A4-41C9-AA15-4C359C43DFC9}|EjemploVentana\\EjemploVentana.csproj|solutionrelative:ejemploventana\\cita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cita.cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Cita.cs",
+              "RelativeDocumentMoniker": "EjemploVentana\\Cita.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Cita.cs",
+              "RelativeToolTip": "EjemploVentana\\Cita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T19:10:39.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploVentana\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Form1.cs",
+              "RelativeToolTip": "EjemploVentana\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:34:18.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploVentana\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\EjemploVentana\\EjemploVentana\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjemploVentana\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:32:53.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

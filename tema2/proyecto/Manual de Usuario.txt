@@ -1,0 +1,78 @@
+Manual de Usuario - Sistema de Detección de Objetos con Voz
+Introducción
+
+Este manual te guiará paso a paso para usar el sistema de detección de objetos con voz. Este programa utiliza tu cámara, un modelo de inteligencia artificial, y comandos de voz para identificar objetos en tiempo real.
+Requisitos Previos
+
+Antes de usar el programa, asegúrate de cumplir con los siguientes requisitos:
+
+    Hardware:
+        Una computadora con cámara integrada o una cámara externa.
+        Un micrófono funcional.
+
+    Software:
+        Sistema operativo compatible: Windows, macOS o Linux.
+        Python 3.8 o superior instalado.
+
+    Bibliotecas necesarias: Instala las siguientes dependencias de Python:
+
+    pip install opencv-python speechrecognition pyttsx3 transformers torch pyaudio
+
+    Configuración inicial: Asegúrate de que los permisos de la cámara y el micrófono estén habilitados en tu sistema operativo.
+
+Iniciar el Programa
+
+    Descarga y abre el archivo: Guarda el archivo sistema_deteccion.py en tu computadora.
+
+    Ejecución del programa: Ejecuta el programa desde la terminal o línea de comandos con el siguiente comando:
+
+    python sistema_deteccion.py
+
+    Mensaje de bienvenida: El programa te saludará por voz e indicará los comandos disponibles.
+
+Uso del Programa
+Comandos principales
+
+El programa responde a los siguientes comandos de voz:
+
+    "¿Qué ves?"
+        Captura una imagen utilizando la cámara.
+        Analiza la imagen para detectar objetos presentes.
+        Te informa por voz sobre los objetos detectados y su nivel de confianza.
+
+    "Salir"
+        Finaliza el programa de forma segura.
+        Limpia los recursos utilizados (cámara, archivos temporales).
+
+Flujo de uso
+
+    Una vez iniciado, el sistema estará en espera y escuchará tus comandos.
+    Pronuncia uno de los comandos disponibles:
+        "¿Qué ves?": Para iniciar el análisis de objetos.
+        "Salir": Para finalizar el programa.
+    Sigue las indicaciones por voz que el sistema proporciona.
+
+Consideraciones Técnicas
+
+    Calidad de la imagen:
+        Para obtener mejores resultados, asegúrate de que la cámara esté limpia y de que haya buena iluminación.
+
+    Reconocimiento de voz:
+        Habla claro y despacio para mejorar la precisión del reconocimiento.
+        Si el sistema no entiende tu comando, intenta nuevamente.
+
+    Mensajes de error comunes:
+        "No he podido oírte bien": Asegúrate de que el micrófono esté funcionando y de que no haya ruido de fondo.
+        "No se pudo acceder a la cámara": Revisa los permisos de tu sistema operativo para la cámara.
+
+    Archivos temporales:
+        El programa guarda temporalmente una imagen llamada captura.jpg durante el análisis. Esta imagen será eliminada automáticamente.
+
+Finalizar el Programa
+
+Para cerrar el programa:
+
+    Di el comando "Salir".
+    El sistema confirmará el cierre y liberará todos los recursos utilizados.
+
+    

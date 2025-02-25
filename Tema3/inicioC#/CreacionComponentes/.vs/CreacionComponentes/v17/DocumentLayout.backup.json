@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|c:\\users\\dav_2004_35\\repositorios\\interfaces\\tema3\\inicioc#\\creacioncomponentes\\creacioncomponentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|solutionrelative:creacioncomponentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\creacioncomponentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|solutionrelative:creacioncomponentes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\creacioncomponentes\\togglebutton .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|solutionrelative:creacioncomponentes\\togglebutton .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\creacioncomponentes\\micontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|solutionrelative:creacioncomponentes\\micontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\creacioncomponentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF061CC-FD30-4559-ABC4-B44E7729D340}|CreacionComponentes\\CreacionComponentes.csproj|solutionrelative:creacioncomponentes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToggleButton .cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\ToggleButton .cs",
+              "RelativeDocumentMoniker": "CreacionComponentes\\ToggleButton .cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\ToggleButton .cs",
+              "RelativeToolTip": "CreacionComponentes\\ToggleButton .cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T18:31:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiControl.cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\MiControl.cs",
+              "RelativeDocumentMoniker": "CreacionComponentes\\MiControl.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\MiControl.cs",
+              "RelativeToolTip": "CreacionComponentes\\MiControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:44:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Form1.cs",
+              "RelativeDocumentMoniker": "CreacionComponentes\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Form1.cs",
+              "RelativeToolTip": "CreacionComponentes\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:39:24.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Program.cs",
+              "RelativeDocumentMoniker": "CreacionComponentes\\Program.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Program.cs",
+              "RelativeToolTip": "CreacionComponentes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:39:13.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Form1.cs",
+              "RelativeDocumentMoniker": "CreacionComponentes\\Form1.cs",
+              "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\CreacionComponentes\\CreacionComponentes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CreacionComponentes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:33:11.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

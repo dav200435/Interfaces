@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|c:\\users\\dav_2004_35\\repositorios\\interfaces\\tema3\\inicioc#\\formulario\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|c:\\users\\dav_2004_35\\repositorios\\interfaces\\tema3\\inicioc#\\formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|c:\\users\\dav_2004_35\\repositorios\\interfaces\\tema3\\inicioc#\\formulario\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9B67A5C3-0F46-4585-B2E5-2FD62634A246}|Formulario\\Formulario.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Formulario\\Form1.cs",
               "ToolTip": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\Formulario\\Form1.cs",
               "RelativeToolTip": "Formulario\\Form1.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAwwEAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwCcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T18:12:29.776Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form3.cs",
               "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\Formulario\\Form3.cs",
               "RelativeDocumentMoniker": "Formulario\\Form3.cs",
@@ -57,7 +57,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\Formulario\\Form3.cs",
               "RelativeDocumentMoniker": "Formulario\\Form3.cs",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DAV_2004_35\\repositorios\\Interfaces\\Tema3\\inicioC#\\Formulario\\Formulario\\Form1.cs",
               "RelativeDocumentMoniker": "Formulario\\Form1.cs",

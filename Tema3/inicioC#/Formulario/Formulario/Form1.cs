@@ -37,7 +37,7 @@ namespace Formulario
 
         private void txtTelefono_TextChanged(object sender, EventArgs e)
         {
-
+            Console.log("editado");
         }
 
         private void btnSalir_Click_1(object sender, EventArgs e)

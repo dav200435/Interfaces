@@ -1,0 +1,10 @@
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\bin\Debug\CreacionComponentes.exe.config
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\bin\Debug\CreacionComponentes.exe
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\bin\Debug\CreacionComponentes.pdb
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.csproj.AssemblyReference.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.Form1.resources
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.Properties.Resources.resources
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.csproj.GenerateResource.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.csproj.CoreCompileInputs.cache
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.exe
+C:\Users\DAV_2004_35\repositorios\Interfaces\Tema3\inicioC#\CreacionComponentes\CreacionComponentes\obj\Debug\CreacionComponentes.pdb
